@@ -11,6 +11,8 @@ function a($b) {
 uber cool funkce
 pridana funkce do jadra
   
+  jabadabadůů
+  
 }
 
 
