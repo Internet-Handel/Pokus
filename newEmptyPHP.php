@@ -12,6 +12,7 @@ uber cool funkce
 pridana funkce do jadra
   
   jabadabadůů
+  oujéé
   
 }
 
