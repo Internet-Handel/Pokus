@@ -11,5 +11,5 @@ a dasli a dalsi
 
 a tim to nekončí...
 
-f () ;
+f (a) ;
 ?>
