@@ -8,13 +8,9 @@ require_once 'etc/init.php';
 
 function a($b) {
 
-uber cool funkce
-pridana funkce do jadra
-  
-  jabadabadůů
-  oujéé
-  
 }
 
 $l = "gtdA";
+$pokus = "další z pokusů";
+$pokus2 = "a je tu další pokus";
 ?>
