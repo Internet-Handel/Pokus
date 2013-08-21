@@ -16,5 +16,5 @@ pridana funkce do jadra
   
 }
 
-
+$l = "gtdA";
 ?>
